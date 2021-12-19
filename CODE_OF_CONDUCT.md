@@ -60,3 +60,6 @@ please notify mentors of the Haskell Beginners 2022 course as soon as possible.
 You can reach them via the following email address:
 
  * haskell.beginners2022@gmail.com
+
+People who violate this Code of Conduct will be removed from the
+course participation and all relevant communication channels.
